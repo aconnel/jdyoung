@@ -1,0 +1,5 @@
+C:\Users\geek\Documents\ADGroupCheck - Template\bin\Release\ADGroupCheck.dll
+C:\Users\geek\Documents\ADGroupCheck - Template\bin\Release\ADGroupCheck.pdb
+C:\Users\geek\Documents\ADGroupCheck - Template\obj\Release\ADGroupCheck.csprojResolveAssemblyReference.cache
+C:\Users\geek\Documents\ADGroupCheck - Template\obj\Release\ADGroupCheck.dll
+C:\Users\geek\Documents\ADGroupCheck - Template\obj\Release\ADGroupCheck.pdb
