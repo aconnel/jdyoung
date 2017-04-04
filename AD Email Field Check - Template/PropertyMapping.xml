@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PropertyMapping>
+  <ConnectionString>1</ConnectionString>
+  <SqlStatement>2</SqlStatement>
+  <ReturnValue>3</ReturnValue>
+  <TheUserName>4</TheUserName>
+</PropertyMapping>

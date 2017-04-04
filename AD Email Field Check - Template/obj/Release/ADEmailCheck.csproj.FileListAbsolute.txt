@@ -1,0 +1,5 @@
+C:\Users\geek\Documents\AD Email Field Check - Template\obj\Release\ADEmailCheck.csprojResolveAssemblyReference.cache
+C:\Users\geek\Documents\AD Email Field Check - Template\bin\Release\ADEmailCheck.dll
+C:\Users\geek\Documents\AD Email Field Check - Template\bin\Release\ADEmailCheck.pdb
+C:\Users\geek\Documents\AD Email Field Check - Template\obj\Release\ADEmailCheck.dll
+C:\Users\geek\Documents\AD Email Field Check - Template\obj\Release\ADEmailCheck.pdb
